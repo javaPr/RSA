@@ -9,5 +9,8 @@ public class Test {
     public static void main(String[] args){
         System.out.println("only for testing");
         id=id+9;
+        int i = 0;
+        int j = i + 9;
+        
     }
 }
