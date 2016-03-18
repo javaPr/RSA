@@ -8,6 +8,9 @@ public class Test {
 
     public static void main(String[] args){
         System.out.println("only for testing");
-        id=id+1;
+
+        for (int i = 0;i<9;i++){
+            System.out.println();
+        }
     }
 }
